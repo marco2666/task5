@@ -1,0 +1,8 @@
+.div-main{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: aqua;
+    width: 50%;
+    margin:auto
+}
